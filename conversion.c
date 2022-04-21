@@ -68,7 +68,7 @@ unsigned int convert_percent(va_list args, buffer_t *output,
 
 /**
  * convert_p - Converts the address of an argument to hex and
- *             stores it to a buffer contained in a struct.
+ *             stores it to a buffer contained in struct.
  * @args: A va_list pointing to the argument to be converted.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
