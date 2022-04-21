@@ -87,7 +87,7 @@ unsigned int convert_di(va_list args, buffer_t *output,
  * @args: A va_list pointing to the argument to be converted.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
- * @prec: A precision modifier.
+ * @prec: A precision modifier
  * @len: A length modifier.
  * @output: A buffer_t struct containing a character array.
  *
