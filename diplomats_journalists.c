@@ -11,7 +11,7 @@ unsigned int convert_R(va_list args, buffer_t *output,
 
 /**
  * convert_s - Converts an argument to a string and
- *             stores it to a buffer contained in a struct.
+ * stores it to a buffer contained in a struct.
  * Learning earnestly
  * @args: A va_list pointing to the argument to be converted.
  * @flags: Flag modifiers.
@@ -56,7 +56,7 @@ unsigned int convert_s(va_list args, buffer_t *output,
 
 /**
  * convert_S - Converts an argument to a string and
- *             stores it to a buffer contained in a struct.
+ * stores it to a buffer contained in a struct.
  * @args: A va_list pointing to the argument to be converted.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
@@ -67,7 +67,7 @@ unsigned int convert_s(va_list args, buffer_t *output,
  * Return: The number of bytes stored to the buffer.
  *
  * Description: Non-printable characteres (ASCII values < 32 or >= 127)
- *              are stored as \x followed by the ASCII code value in hex.
+ * are stored as \x followed by the ASCII code value in hex.
  */
 unsigned int convert_S(va_list args, buffer_t *output,
 		unsigned char flags, int wid, int prec, unsigned char len)
@@ -108,7 +108,7 @@ unsigned int convert_S(va_list args, buffer_t *output,
 
 /**
  * convert_r - Reverses a string and stores it
- *             to a buffer contained in a struct.
+ * to a buffer contained in a struct.
  * @args: A va_list pointing to the string to be reversed.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
@@ -152,7 +152,7 @@ unsigned int convert_r(va_list args, buffer_t *output,
 
 /**
  * convert_R - Converts a string to ROT13 and stores
- *             it to a buffer contained in a struct.
+ * it to a buffer contained in a struct.
  * @args: A va_list pointing to the string to be converted.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
