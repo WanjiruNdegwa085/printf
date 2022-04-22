@@ -45,4 +45,6 @@ The flood of print has turned reading into a process of gulping rather than savo
 
 All the above options work well together.
 
+The work is compiled using gcc "$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c and $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c for flagging
+
 Rispha Ndegwa and Joseph Rono

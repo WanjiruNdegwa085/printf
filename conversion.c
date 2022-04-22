@@ -8,8 +8,9 @@ unsigned int convert_p(va_list args, buffer_t *output,
 		unsigned char flags, int wid, int prec, unsigned char len);
 
 /**
- * convert_c - Converts an argument to an unsigned char and
+ * convert_c - Converts an argument to an unsigned char and 
  *             stores it to a buffer contained in a struct.
+ *Learning earnestly
  * @args: A va_list pointing to the argument to be converted.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
