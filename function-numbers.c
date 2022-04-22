@@ -6,7 +6,7 @@ buffer_t *init_buffer(void);
 
 /**
  * _memcpy - Copies n bytes from memory area src to
- *           the buffer contained in a buffer_t struct.
+ * the buffer contained in a buffer_t struct.
  * learning earnestly . 
  * @output: A buffer_t struct.
  * @src: A pointer to the memory area to copy.
