@@ -1,6 +1,6 @@
 C- Printf task
 
-Description This team project is a printf replicate, it reprivates the C standard library printf() function.
+Description This team project is a printf replicate, it repricates the C standard library printf() function.
 
 What you should learn from this project:
 
