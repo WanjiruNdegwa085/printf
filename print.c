@@ -17,12 +17,12 @@ void cleanup(va_list args, buffer_t *output)
 }
 
 /**
- * run_printf - Reads through the format string for _printf.
- * @format: Character string to print - may contain directives.
- * @output: A buffer_t struct containing a buffer.
- * @args: A va_list of arguments.
+ * run_printf - Reads through the format string for _printf
+ * @format: Character string to print,contain directives
+ * @output: A buffer_t struct containing a buffer
+ * @args: A va_list of arguments
  *
- * Return: The number of characters stored to output.
+ * Return: The number of characters stored to output
  */
 int run_printf(const char *format, va_list args, buffer_t *output)
 {
