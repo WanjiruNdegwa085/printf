@@ -11,6 +11,7 @@ unsigned int convert_p(va_list args, buffer_t *output,
  * convert_c - Converts an argument to an unsigned char and 
  *             stores it to a buffer contained in a struct.
  *Learning earnestly
+ *Effort pays
  * @args: A va_list pointing to the argument to be converted.
  * @flags: Flag modifiers.
  * @wid: A width modifier.
