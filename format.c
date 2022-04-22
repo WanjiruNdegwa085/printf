@@ -9,7 +9,7 @@ unsigned int (*handle_specifiers(const char *specifier))(va_list, buffer_t *,
 
 /**
  * handle_flags - Matches flags with corresponding values.
- * Learning earnestly
+ * Learning earnestly !
  * @flag: A pointer to a potential string of flags.
  * @index: An index counter for the original format string.
  *

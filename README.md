@@ -50,4 +50,4 @@ The files include a.out, alphabet.c, conversion.c, converter_flag.c, converters_
 
 The work is compiled using gcc "$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c and $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c for flagging
 
-Rispha Ndegwa and Joseph Rono
+Rispha Ndegwa and Joseph Rono.
