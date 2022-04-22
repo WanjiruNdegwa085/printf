@@ -45,6 +45,9 @@ The flood of print has turned reading into a process of gulping rather than savo
 
 All the above options work well together.
 
+The files include a.out, alphabet.c, conversion.c, converter_flag.c, converters_binary.c, diplomats_journalists.c, format.c, function-numbers.c, leopards-print.c, main.c, main.h, man_3_printf, and print.c
+
+
 The work is compiled using gcc "$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c and $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c for flagging
 
 Rispha Ndegwa and Joseph Rono
