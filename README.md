@@ -1,6 +1,6 @@
 C- Printf task
 
-Description This team project is a printf replicate, it reprivates the C standard library printf() function.
+Description This team project is a printf replicate, it repricates the C standard library printf() function.
 
 What you should learn from this project:
 
@@ -44,5 +44,7 @@ Print is the sharpest and the strongest weapon of our party Handle the following
 The flood of print has turned reading into a process of gulping rather than savoring Handle the following custom conversion specifier: R : prints the rot13'ed string
 
 All the above options work well together.
+
+The work is compiled using gcc "$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c and $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c for flagging
 
 Rispha Ndegwa and Joseph Rono
